@@ -1,11 +1,7 @@
-<div align="center">
-<img width="138" height="16" alt="b0f93098" src="https://github.com/user-attachments/assets/b3b18228-da0e-48a3-9d26-b63f98b93aab" />
-
-
 <p align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=⠀⠀(˶˃𐃷˂˶)⠀⠀&color=00a3bf" alt="puppiedawg" />
+  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=⠀⠀sneaky⠀links⠀⠀&color=00a3bf" alt="prreli" />
 </p>
 
 <div align="center">
